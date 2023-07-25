@@ -8,7 +8,7 @@
 
 
 # qpc - RPM command line tool for quipucords
-qpc is the RPM command line tool for quipucords. To learn more about quipucords visit [qpc man page](docs/source/man.rst).
+Qpc is the RPM command line tool for quipucords. To learn more about quipucords visit [qpc man page](docs/source/man.rst).
 
 # Overview
 This *README* file contains information about the installation and development of qpc, as well as instructions about where to find basic usage, known issues, and best practices information.
